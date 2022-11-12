@@ -1,2 +1,2 @@
-Hello, world!
-Hello, Tim!
+Hello, space!
+Hello, John!
